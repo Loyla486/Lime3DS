@@ -17,7 +17,7 @@
 
 ### Windows & MacOS
 
-Download the latest release from [Releases](https://github.com/Lime3DS/Lime3DS/releases).
+Download the latest release from [Releases](https://github.com/Loyla486/Lime3DS/releases).
 
 #### Windows Version Differences
 There is no emulation specific difference between the MSVC and MSYS2 versions of Lime3DS, they are just two different compilers used to create a Lime3DS executable. However, there are a few functional differences:
