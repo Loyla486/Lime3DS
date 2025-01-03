@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-![GitHub Release](https://img.shields.io/github/v/release/Lime3DS/Lime3DS?label=Current%20Release)
+![GitHub Release](https://img.shields.io/github/v/release/Loyla486/Lime3DS?label=Current%20Release)
 ![GitHub Downloads](https://img.shields.io/github/downloads/Lime3DS/Lime3DS/total?logo=github&label=GitHub%20Downloads)
 ![Flathub Downloads](https://img.shields.io/flathub/downloads/io.github.lime3ds.Lime3DS?logo=Flathub&label=Flathub%20Downloads)
 ![](https://github.com/Lime3DS/Lime3DS/actions/workflows/build.yml/badge.svg)
