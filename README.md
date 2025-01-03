@@ -40,21 +40,21 @@ Using Obtainium will allow for quick and easy installation of updates.
 \
 \
 \
-Alternatively, you can install the latest APK from the [Releases](https://github.com/Lime3DS/Lime3DS/releases) page.
+Alternatively, you can install the latest APK from the [Releases](https://github.com/Loyla486/Lime3DS/releases) page.
 
 This will require a new APK to be manually downloaded each time an update is released.
 
 ---
 ### Linux
 
-Lime3DS is available as an AppImage on the [Releases](https://github.com/Lime3DS/Lime3DS/releases) page.
+Lime3DS is available as an AppImage on the [Releases](https://github.com/Loyla486/Lime3DS/releases) page.
 
 We are also on Flathub:
 
 <a href=https://flathub.org/apps/io.github.lime3ds.Lime3DS><img width='180' alt='Download on Flathub' src='https://dl.flathub.org/assets/badges/flathub-badge-en.png'/></a>
 
 # Build Instructions
-Please refer to our website's [wiki](https://github.com/Lime3DS/Lime3DS/wiki/Building-From-Source) in order to find building instructions for Windows, Linux, Android and MacOS
+Please refer to our website's [wiki](https://github.com/Loyla486/Lime3DS/wiki/Building-From-Source) in order to find building instructions for Windows, Linux, Android and MacOS
 
 # Compatibility Reporting
 Reports for game compatibility can be made here: https://github.com/Lime3DS/compatibility-list
